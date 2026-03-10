@@ -46,11 +46,12 @@ Il *Generalization Gap* fisiologico tra i risultati in Cross-Validation e quelli
 
 ## Riproducibilità
 Clonare la repository e installare le dipendenze per eseguire il notebook:
-\`\`\`bash
+
+```bash
 git clone https://github.com/Francesco002511/ufc-predictive-modeling.git
 cd ufc-predictive-modeling
 pip install -r requirements.txt
-\`\`\`
+```
 
 ## Licenza
 Distribuito sotto licenza MIT. Vedi il file `LICENSE` per maggiori informazioni.
