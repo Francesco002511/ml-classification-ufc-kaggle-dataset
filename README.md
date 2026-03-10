@@ -34,7 +34,7 @@ Il *Generalization Gap* fisiologico tra i risultati in Cross-Validation e quelli
 
 ## Struttura della Repository
 
-\`\`\`text
+```text
 ├── data/
 │   └── data.csv                  # Dataset originale (~5 MB)
 ├── notebooks/
@@ -42,7 +42,7 @@ Il *Generalization Gap* fisiologico tra i risultati in Cross-Validation e quelli
 ├── requirements.txt              # Dipendenze dell'ambiente Python
 ├── LICENSE                       # Licenza MIT
 └── README.md                     # Project overview
-\`\`\`
+```
 
 ## Riproducibilità
 Clonare la repository e installare le dipendenze per eseguire il notebook:
