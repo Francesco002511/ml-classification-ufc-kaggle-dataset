@@ -1,0 +1,18 @@
+# Ambienti virtuali Python
+venv/
+env/
+.venv/
+
+# Cache di Jupyter e IPython
+.ipynb_checkpoints/
+__pycache__/
+
+# Dati pesanti o sensibili (se il CSV fosse sensibile, ma nel nostro caso è pubblico)
+# data/*.csv
+
+# File di configurazione di sistema (Mac/Windows)
+.DS_Store
+Thumbs.db
+
+# File di ambiente con chiavi segrete
+.env
